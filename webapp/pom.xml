@@ -19,23 +19,13 @@
     <finalName>${project.artifactId}</finalName>
 
     <plugins>
-<<<<<<< HEAD
 
       <plugin>
-	       <groupId>org.apache.maven.plugins</groupId>
-  	     <artifactId>maven-war-plugin</artifactId>
-  	     <version>3.3.2</version>
+	 <groupId>org.apache.maven.plugins</groupId>
+  	 <artifactId>maven-war-plugin</artifactId>
+         <version>3.3.2</version>
       </plugin>
          
-=======
-             
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-war-plugin</artifactId>
-        <version>3.3.2</version>
-      </plugin>
-             
->>>>>>> 3f10867f71e2a47ddf40939968f3bf5183b7bdd6
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
