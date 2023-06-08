@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !! </h1>
 <h1> testing app deployment into tomcat webservice newupdate </h1>
-<h1> No money needed Ms.Naga Jyothi...take it easy & stay cool </h1>
+<h1> No money needed Ms.Naga Jyothi garu...take it easy & stay cool </h1>
